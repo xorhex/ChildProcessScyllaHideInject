@@ -18,7 +18,7 @@ Tested from a Linux machine with golang version `1.21.3`.
 GOOS=windows GOARCH=amd64 go build -o bin/remote_ida_scylla_inject.exe main.go
 ```
 
-Might need to run `go get github.com/xorhex/remote_ida_scylla_inject` once it if complains about missin `go.sum`.
+Might need to run `go get github.com/xorhex/remote_ida_scylla_inject` once it if complains about missing `go.sum`.
 
 Requirements
 
